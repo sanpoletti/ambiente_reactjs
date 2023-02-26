@@ -5,7 +5,7 @@ function App() {
   // ambiente development
   return (
     <div className="App">
-      <h1 style ={{color: 'blue'}}>Develop env</h1>
+      <h1 style ={{color: 'green'}}>Develop env</h1>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
